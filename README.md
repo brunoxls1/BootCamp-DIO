@@ -1,2 +1,2 @@
-# **Repositório para o Bootcamp DIO  🤖**
+# **Repositório para o Bootcamp DIO / Eduzz Fullstack Developer  🤖**
 
