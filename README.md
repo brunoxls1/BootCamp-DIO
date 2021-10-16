@@ -1,3 +1,2 @@
-Projeto de uma Landing Page utilizando apenas Html e Css.
-Imagens em breve...
+Pasta para os projetos realizados no bootcamp DIO / Eduzz FullStack Dev  🤖🚀🚀
 
