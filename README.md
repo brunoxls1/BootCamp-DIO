@@ -1,2 +1,3 @@
-# **Repositório para o Bootcamp DIO / Eduzz Fullstack Developer  🤖**
+Projeto de uma Landing Page utilizando apenas Html e Css.
+Imagens em breve...
 

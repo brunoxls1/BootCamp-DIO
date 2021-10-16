@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap');
+
+.titulo{
+    text-align: center;
+    font-size: 45px;
+    margin-top: 25px;
+    padding: 0;
+    font-family: 'IM Fell English SC';
+    text-shadow: 1px 1px 1px rgb(170, 34, 34);
+}
+.subtititulo{
+    text-align: center;
+    font-family: 'IM Fell English SC';
+    font-size: 25px;
+}
+body {
+    margin: 0;
+    background-color: #4A8EAC;   
+}
+.main-game {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.genius {
+    display: grid;
+    grid-template-areas: 'verde vermelho' 'amarelo azul';
+    grid-gap: 6px;
+    border: 1px solid #4A8EAC;
+    background-color: #4A8EAC;
+    border-radius: 100%;
+    width: 700px;
+    height: 700px;
+    margin-bottom: 100px;
+}
+.blue {
+    grid-area: azul;
+    background-color: #2542CD;
+    border-bottom-right-radius: 100%;
+}
+.red{
+    grid-area: vermelho;
+    background-color: rgb(223, 4, 4);
+    border-top-right-radius: 100% ;
+}
+
+.yellow {
+    grid-area: amarelo;
+    background-color: #F3CA1A;
+    border-bottom-left-radius: 100%;
+}
+.green{
+    grid-area: verde;
+    background-color: #5FE055;
+    border-top-left-radius:100% ;
+}
+.selected{
+    opacity: 0.4;
+}
+

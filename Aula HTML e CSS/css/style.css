@@ -50,6 +50,7 @@ a{
 .contatos{
     list-style-type: none;
     padding-left: 15px;
+    
 }
 .contatos li a {
     text-decoration: none;
